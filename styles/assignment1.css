@@ -1,0 +1,226 @@
+/* header related design */
+
+.header-first-line{
+    text-align: center;
+    color: #FFF;
+    font-size: 45px;
+}
+   
+.header-second-line{
+    text-align: center;
+    color: #FFF;
+    font-size: 65px;
+}
+
+.header-new-year{
+    text-align: center;
+}
+
+.header-new-year{
+    background-image: url('../styles/resources/Banner\ Image.png');
+    width: 1380px;
+    height: 600px;
+    border-radius: 16px;
+ /*   background-repeat:no-repeat; */
+    background-attachment: fixed;
+    background-position-x: center;
+    margin-left: 90px;
+    margin-right: 500px;
+}
+
+.title{
+    text-align: center;
+    color: #F00;
+}
+
+.desc{
+    text-align: center;
+    color: #F00;
+}
+
+.desc2{
+    text-align: center;
+}
+
+.new-year-photo{
+    text-align: center;
+}
+
+.header-welcome-party{
+    display: flex;
+    background-image: url('../styles/resources/Vectorrr.png');
+    justify-content: space-around;
+    background-repeat:no-repeat;
+    width: 1380px;
+    height: 750px;
+    background-position: center;
+    margin-left: 70px;
+}
+
+.welcome-title{
+    color: #FFF;
+}
+
+.welcome-desc{
+    color: #FFF;
+}
+
+.welcome-join-now{
+    color: #FFF;
+}
+
+.red-text{
+    
+    color: #F00;
+}
+.main-one-desc{
+    text-align: center;;
+}
+.btn-primary{
+    
+    background-color: #F00;
+    border:0;
+    color:#FFF;
+    font-size:20px;
+
+    
+  padding: 15px 25px;
+  
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  
+  
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.btn{   
+  text-align: center;
+  margin: 30px;
+}
+.main-one{
+    border:radius 2px;
+    width: 1340px;
+    height: 450px;
+flex-shrink: 0;
+background: rgba(255, 0, 0, 0.05);
+background-position: center;
+    margin-left: 70px;
+}
+#paint0_linear_114_9913{
+    height: 100px;
+}
+
+.main-two{
+    display: flex;
+    justify-content: space-around;
+}
+.main-two-two{
+    padding: 60px;
+    width: 370px;
+height: 370px;
+border-radius: 550px;
+border: 15px solid #F00;
+
+}
+
+ .main-three-image-fifty-percent{
+    background: url('../styles/resources/Rectangle\ 1.png'),url('../styles/resources/Rectangle\ 2.png');
+    background-position: right top,left bottom;
+    background-repeat: no-repeat, no-repeat;
+    border-radius: 0px;
+
+ }
+ .main-three-image{
+    display: flex;
+    justify-content:flex-start;
+ }
+ .main-three-image-gift-box{
+    background: url('../styles/resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 3px;
+ }
+.main-four-image-one{
+   display: flex;
+   justify-content:space-around;
+   width: 1368px;
+}
+.main-four-image-two{
+   display:flex;
+   justify-content: space-around;
+   width: 1368px;
+}
+
+.footer-two{
+    display:flex;
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+padding:230px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    width: 1580px;
+height: 609px;
+flex-shrink: 0;
+}
+.footer-one-desc{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.main-two-offer{
+    color: red;
+}
+.main-three-one{
+    text-align: center;
+}
+.main-three-two{
+    text-align: center;
+}
+.main-three-three{
+    text-align: center;
+}
+.holiday{
+    color: red;
+}
+.main-four-one{
+    color: red;
+}
+.main-five{
+    border:radius 2px;
+    width: 1340px;
+    height: 450px;
+flex-shrink: 0;
+background: rgba(255, 0, 0, 0.05);
+background-position: center;
+    margin-left: 70px;
+}
+.main-five-image-one{
+    text-align: center;
+}
+.main-five-title{
+    text-align: center;
+}
+.main-five-desc{
+    text-align: center;
+}
+.input-text{
+    width: 648px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+background-position: center;
+text-align: left;
+background-color: #F00;
+background-repeat: no-repeat;
+}
